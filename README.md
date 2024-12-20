@@ -23,4 +23,6 @@ This project focused on conducting an internal IT audit for Botium Toys, a growi
 
 ## Steps
 
-<a href="https://docs.google.com/document/d/1Y83srzXA8j2Pkhw1a93EH5X0u5ctyaBs_SEOdhL8tB4/edit?usp=drive_link">Security Audit Lab</a>
+<a href="https://docs.google.com/document/d/1Y83srzXA8j2Pkhw1a93EH5X0u5ctyaBs_SEOdhL8tB4/edit?usp=drive_link">Botium Toys' Scope</a>
+
+<a href="https://docs.google.com/document/d/1ArhAmvjfq1orbmYjoUpQMdWFQ943cJqYNczuYOCiUH4/edit?usp=sharing">Conducting a Security Audit</a>
