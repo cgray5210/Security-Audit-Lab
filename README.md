@@ -22,10 +22,5 @@ This project focused on conducting an internal IT audit for Botium Toys, a growi
 - NIST Cybersecurity Framework (CSF) for structuring security posture assessments.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+<a href="https://docs.google.com/document/d/1Y83srzXA8j2Pkhw1a93EH5X0u5ctyaBs_SEOdhL8tB4/edit?usp=drive_link">Security Audit Lab</a>
