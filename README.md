@@ -23,6 +23,16 @@ This project focused on conducting an internal IT audit for Botium Toys, a growi
 
 ## Steps
 
-<a href="https://docs.google.com/document/d/1Y83srzXA8j2Pkhw1a93EH5X0u5ctyaBs_SEOdhL8tB4/edit?usp=drive_link">Botium Toys' Scope</a>
+![Screen Shot 2024-12-30 at 10 04 38 PM](https://github.com/user-attachments/assets/2db9f383-2c4d-4c8d-977d-314566e27941)
+
+Ref 1. Screenshot showing the scope and goals of audit
+
+![Screen Shot 2024-12-30 at 10 05 40 PM](https://github.com/user-attachments/assets/973856c0-a578-4fb9-9a09-5c5a28b5143f)
+
+Ref 2. Screenshot of risk assessment
+ 
+![Screen Shot 2024-12-30 at 10 06 21 PM](https://github.com/user-attachments/assets/1762f816-c40f-4043-8a94-90d9889d88ca)
+
+Ref 3. Screenshot of risk assessment continued
 
 <a href="https://docs.google.com/document/d/1ArhAmvjfq1orbmYjoUpQMdWFQ943cJqYNczuYOCiUH4/edit?usp=sharing">Conducting a Security Audit</a>
