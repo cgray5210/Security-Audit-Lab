@@ -35,4 +35,18 @@ Ref 2. Screenshot of risk assessment
 
 Ref 3. Screenshot of risk assessment continued
 
-<a href="https://docs.google.com/document/d/1ArhAmvjfq1orbmYjoUpQMdWFQ943cJqYNczuYOCiUH4/edit?usp=sharing">Conducting a Security Audit</a>
+![Screen Shot 2024-12-30 at 10 08 27 PM](https://github.com/user-attachments/assets/5dc5c5a4-aceb-4f93-83dd-30cc2d5cc222)
+
+Ref 4. Controls and compliance checklist
+
+![Screen Shot 2024-12-30 at 10 09 00 PM](https://github.com/user-attachments/assets/cd39f17b-eccb-40fc-9c1e-24cffe6c87ac)
+
+Ref 5. CCC Continued
+
+![Screen Shot 2024-12-30 at 10 09 56 PM](https://github.com/user-attachments/assets/c5a5075d-af1b-4ab8-8c0c-73660d36a087)
+
+Ref 6. CCC Continued
+
+![Screen Shot 2024-12-30 at 10 10 57 PM](https://github.com/user-attachments/assets/0c9f4cc7-8d0b-47fc-b5ca-26f56d68441a)
+
+Ref 7. CCC Continued
